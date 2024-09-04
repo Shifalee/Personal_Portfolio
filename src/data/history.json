@@ -1,0 +1,29 @@
+[
+  {
+    "role": "FullStack React Developer",
+    "organisation": "Intellect Design Arena",
+    "startDate": "Sept, 2022",
+    "endDate": "Present",
+    "experiences": ["Worked on Banking Applications", "Implemented account management"],
+    "imageSrc": "history/intellect.png"
+  },
+  {
+    "role": "Software Intern",
+    "organisation": "ExternLabs",
+    "startDate": "Jan, 2022",
+    "endDate": "Mar, 2022",
+    "experiences": ["Worked on HR Portal", "Led Dashboard Integration"],
+    "imageSrc": "history/extern.png"
+  },
+  {
+    "role": "Web developer",
+    "organisation": "SmartKnower",
+    "startDate": "Mar, 2021",
+    "endDate": "April, 2021",
+    "experiences": [
+      "Worked on Quiz Application",
+      "Designed UI intefaces"
+    ],
+    "imageSrc": "history/smartknower.png"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Snake_Game",
+    "imageSrc": "projects/snake1.png",
+    "description": "Created a Snake game in JavaScript to learn modern web technologies, with responsive gameplay.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://shifalee.github.io/Snake_Game_Project/",
+    "source": "https://github.com/Shifalee/Snake_Game_Project"
+  },
+  {
+    "title": "Numorphic_Calculator",
+    "imageSrc": "projects/calculator.png",
+    "description": "Created a Neumorphic-style JavaScript calculator with a sleek UI and smooth, responsive functionality.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://shifalee.github.io/Numorphic-JavaScript-Calculator/",
+    "source": "https://github.com/Shifalee/Numorphic-JavaScript-Calculator"
+  },
+  {
+    "title": "Slack_Clone",
+    "imageSrc": "projects/slack.png",
+    "description": "Created a Slack clone in JavaScript with real-time messaging, user authentication, and responsive design..",
+    "skills": ["HTML", "Tailwind", "JavaScript"],
+    "demo": "https://shifalee.github.io/Slack-Clone-Project/",
+    "source": "https://github.com/Shifalee/Slack-Clone-Project"
+  }
+]
